@@ -1,0 +1,9 @@
+Building Protoncoin
+
+See doc/readme-qt.rst for instructions on building Protoncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Protoncoin.
+
+See doc/build-*.txt for instructions on building protoncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Protoncoin.
